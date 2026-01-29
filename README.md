@@ -1,11 +1,3 @@
-<!-- Header / Hero -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yunusberkayinci/">
-    <img src="https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966" alt="Header" />
-  </a>
-</p>
-
 <h1 align="center">Berkay İnci</h1>
 <h3 align="center">AI Engineer | Data Scientist | LLM & RAG Systems Developer</h3>
 
@@ -72,17 +64,38 @@ AI-focused **Software Engineer and Data Scientist** with hands-on experience in 
 
 ## Selected Projects
 
-### 🔹 Automated Crowd Counting and Density Estimation
+### 🔹 Hyperspectral Anomaly Detection (GAN & CNN)
 
-* Designed a deep learning pipeline using CNN-based architectures on the **ShanghaiTech dataset**
-* Achieved results close to state-of-the-art benchmarks
-* Focused on real-world applicability in congested scenes
+* Developed an anomaly detection framework for **hyperspectral imagery** using **CNN-based feature extraction** and **GAN architectures**
+* Modeled spectral–spatial distributions to identify rare and unseen anomalies
+* Evaluated multiple **state-of-the-art deep learning approaches** for robustness and generalization
+* Applied techniques relevant to **remote sensing, defense, and industrial inspection**
 
-### 🔹 LLM-powered Question Answering System (RAG)
+### 🔹 Automated Crowd Counting and Density Estimation with XAI
 
-* Built a **Retrieval-Augmented Generation** pipeline combining document indexing and LLM reasoning
-* Implemented embedding-based semantic search for accurate context retrieval
-* Improved factual consistency and reduced hallucinations
+* Built a deep learning pipeline for crowd counting using **CNN-based computer vision architectures** on the **ShanghaiTech dataset**
+* Integrated **Explainable AI (XAI)** techniques to interpret model predictions
+* Leveraged **LLM integration** to generate human-readable explanations of density maps and prediction behavior
+* Focused on reliability and interpretability in real-world congested scenes
+
+### 🔹 LLM-powered Corporate Risk & Audit Assistant (Full-Stack RAG)
+
+* Developing a **full-stack LLM & RAG-based application** inspired by enterprise risk and internal audit platforms
+* Designed document ingestion, **vector-based retrieval**, and context-aware reasoning pipelines
+* Implemented **AI-driven intelligent optimization techniques** to improve response accuracy and decision support
+* Emphasis on enterprise-grade architecture, security, and explainability
+
+### 🔹 Network Troubleshooting Assistant (IoT & RAG)
+
+* Designed an AI-assisted troubleshooting system for **network and IoT environments**
+* Combined **RAG pipelines** with operational logs and device telemetry
+* Enabled contextual root-cause analysis and actionable recommendations using LLMs
+
+### 🔹 NYC Citi Bike Data Analysis
+
+* Performed large-scale **data analysis and visualization** on NYC Citi Bike datasets
+* Extracted usage patterns, temporal trends, and mobility insights
+* Demonstrated strong skills in **data preprocessing, exploratory data analysis (EDA), and visual analytics**
 
 ---
 
@@ -99,6 +112,27 @@ AI-focused **Software Engineer and Data Scientist** with hands-on experience in 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yberkayinci" alt="GitHub streak" />
 </p>
+
+---
+
+## Research Interests
+
+My research and professional interests focus on **applied artificial intelligence** and **data-driven systems**, with an emphasis on building **interpretable, reliable, and scalable AI solutions** for real-world problems.
+
+* **Hyperspectral Image Analysis & Anomaly Detection**
+  Deep learning methods for hyperspectral data, including **GAN- and CNN-based architectures**, spectral–spatial modeling, and robust anomaly detection techniques for remote sensing and industrial applications.
+
+* **Explainable AI (XAI)**
+  Integrating XAI methods into computer vision and decision-support systems to improve **model transparency, trust, and human interpretability**, especially in safety-critical and enterprise environments.
+
+* **Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)**
+  Designing end-to-end LLM systems with **semantic retrieval, vector databases, and context-aware reasoning** to reduce hallucinations and enhance factual consistency in enterprise applications.
+
+* **Data Science & Applied Analytics**
+  Large-scale data analysis, feature engineering, and visualization to extract actionable insights from complex datasets across mobility, operations, and risk domains.
+
+* **AI-powered Optimization & Decision Support**
+  Intelligent optimization techniques that combine machine learning, domain knowledge, and AI-driven reasoning for **corporate risk, audit, and operational efficiency**.
 
 ---
 
