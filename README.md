@@ -1,9 +1,9 @@
-<h1 align="center">Berkay İnci</h1>
-<h3 align="center">AI Engineer | Data Scientist | LLM & RAG Systems Developer</h3>
+<h1 align="center">Yunus Berkay Inci</h1>
+<h3 align="center">AI Engineer | Data Scientist | LLM & RAG Systems Developer | Full Stack Developer | IOT Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yunusberkayinci/">LinkedIn</a> •
-  <a href="mailto:yunusberkayinci@gmail.com">Email</a> •
+  <a href="mailto:berkayinci25@gmail.com">Email</a> •
   <a href="https://github.com/yberkayinci">GitHub</a>
 </p>
 
